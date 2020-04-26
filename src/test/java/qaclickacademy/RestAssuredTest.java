@@ -9,6 +9,8 @@ public class RestAssuredTest {
 		public void restapi1()
 		{
 		System.out.println("Rtestcase1");
+		System.out.println("Rtestcase2");
+		System.out.println("Rtestcase3");
 		
 		}
 		

@@ -15,9 +15,9 @@ public class SeleniumTest {
 	public void scase2()
 	{
 	System.out.println("Stestcase2");
-	
 	}
 	
-	http://localhost:9090/jenkins
+	
+	//http://localhost:9090/jenkins
 
 }
