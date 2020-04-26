@@ -16,6 +16,9 @@ public class SeleniumTest {
 	public void scase2()
 	{
 	System.out.println("Stestcase2");
+	System.out.println("Stestcasedemo");
+	System.out.println("Stestcasedemo2");
+	System.out.println("Stestcasedemo3");
 	}
 	
 	
