@@ -16,7 +16,11 @@ public class AppiumTest {
 	@Test
 	public void Acase2()
 	{
-	System.out.println("Atestcase2");
+	System.out.println("Atestcase4");
+	System.out.println("Atestcase5");
+	System.out.println("Atestcase6");
+	System.out.println("Atestcase7");
 	
+	System.out.println("Atestcase8");
 	}
 }
