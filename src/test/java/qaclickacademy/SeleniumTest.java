@@ -8,7 +8,8 @@ public class SeleniumTest {
 	public void scase1()
 	{
 	System.out.println("Stestcase1");
-	
+	System.out.println("Stestcase2");
+	System.out.println("Stestcase3");
 	}
 	
 	@Test
